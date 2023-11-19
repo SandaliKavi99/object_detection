@@ -18,26 +18,22 @@ Numpy
 Clone the repository:
 
 ``` bash
-Copy code
 git clone https://github.com/your-username/Face-Detection.git
  ```
 Navigate to the project directory:
 
 ``` bash
-Copy code
 cd Face-Detection
 ```
 Install the required dependencies:
 
 ``` bash
-Copy code
 pip install -r requirements.txt
 ```
 ## Usage
 1. Run the application:
 
 ``` bash
-Copy code
 python face_detection.py
 ```
 2. Adjust the camera for optimal face detection.
