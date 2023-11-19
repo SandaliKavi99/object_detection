@@ -18,12 +18,12 @@ Numpy
 Clone the repository:
 
 ``` bash
-git clone https://github.com/your-username/Face-Detection.git
+git clone https://github.com/SandaliKavi99/object_detection.git
  ```
 Navigate to the project directory:
 
 ``` bash
-cd Face-Detection
+cd object_detection
 ```
 Install the required dependencies:
 
