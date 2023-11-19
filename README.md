@@ -9,9 +9,9 @@ Distance measurement between detected faces and the camera.
 Audible alarm triggered when a face approaches within 50cm of the camera.
 
 ## Requirements
-Python 3.x
-OpenCV
-Numpy
+1. Python 3.x
+2. OpenCV
+3. Numpy
 (Additional dependencies, if any, can be found in the requirements.txt file)
 
 ## Installation
